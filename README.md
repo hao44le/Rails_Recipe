@@ -15,6 +15,7 @@ The following **required** functionality is completed:
 - [x] User can see all the chefs and chefs' Recipes
 - [x] Logined User can like/dislike a recipe
 - [x] Recipe is viewed by paging
+- [x] Admin user will have the ability to delete/update any recipes
 
 The following **optional** features are implemented:
 
@@ -37,7 +38,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Recipe.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
