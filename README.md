@@ -1,7 +1,7 @@
 # Rails-RecipeApp
 
 ## See this app in action
-[Heroku Address](http://gelei.herokuapp.com/)
+[Heroku Address](http://gelei.herokuapp.com/)http://gelei.herokuapp.com/
 
 Time spent: **20** hours spent in total
 
