@@ -21,18 +21,17 @@ The following **optional** features are implemented:
 - [ ] Logined User can add review to a recipe
 
 
-Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 ## Steps to implement Reviews
-1. Migration to create reviews table, body, type = text_field, two foreign key, reference chef_id, reference recipe_id
-2. build the Review Model
-3.Build the association, has_many and belongs_to
-4.Test out association in rails console
--recipe.reviews
--chef.reviews
-5.Create routes
-6.Authenicated chefs can create reviews, before_action , require_user
-7.associate a chef_id and recipe_id
-8.DRY
+- 1. Migration to create reviews table, body, type = text_field, two foreign key, reference chef_id, reference recipe_id
+- 2. build the Review Model
+- 3.Build the association, has_many and belongs_to
+- 4.Test out association in rails console
+- recipe.reviews
+- chef.reviews
+- 5.Create routes
+- 6.Authenicated chefs can create reviews, before_action , require_user
+- 7.associate a chef_id and recipe_id
+- 8.DRY
 
 ## Video Walkthrough 
 
